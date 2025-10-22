@@ -21,7 +21,14 @@ This project adds a custom animation before executing the shutdown command on yo
 
 ## Usage
 
-Make the shell script executable:
+1. Make the shell script executable:
 
 ```bash
 chmod +x custom_shutdown.sh
+```
+
+2. Execute the script:
+
+```bash
+./custom_shutdown.sh
+```
