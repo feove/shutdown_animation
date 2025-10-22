@@ -2,4 +2,4 @@
 
 python animations.py 
 
-echo "Shutdown"
+shutdown now
